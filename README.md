@@ -87,7 +87,7 @@ The following image tags are available along with their tagged release based on 
 
 **The first boot can take from 2 minutes - 5 minutes depending on your CPU to setup the proper schemas.**
 
-- Login to the web server and enter in your admin email address, admin password and start configuring the system!
+- Open the site in the browser and click "sign in" followed by "I'm an agent - sign in here" and enter in your admin email address, admin password and start configuring the system!
 
 ### Persistent Storage
 The following directories are used for configuration and can be mapped for persistent storage.
